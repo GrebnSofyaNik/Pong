@@ -10,7 +10,7 @@ Program for playing together looks like Pong. Only ASCII characters are used to 
 
 ***Space Bar - to skip an action at a certain step of the game in step-by-step mode.***
 
-* ***Graphics***
+* ***Graphics***:
 
 ***The field is a 80 x 25-symbol rectangle.*** 
 
